@@ -3,3 +3,7 @@
 ---
 
 ## test
+
+git config --global user.name "walkle"
+git config --global user.email "1030448095@qq.com"
+
